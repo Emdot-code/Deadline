@@ -41,3 +41,11 @@ Every deadline the cuckoo clock has decided, with what it saw and how it reasone
 - **Decided:** 5 h
 - **Announced:** “Fifty-nine seconds at the door? I like careful people. No scale ruler, so you draw at 1:1. Take 300 minutes.”
 - *Claude (haiku), 7.0 s*
+
+## 26 Oct 2026, 19:00 · A house for a retired lighthouse keeper and his goldfish
+
+- **Saw:** packed pencils, coffee, croissant, rubber duck; left at home set square, scale ruler, reference book; 37 s at the door; 210 min of work; mood: keeps losing count of the bricks outside
+- **Thought:** The student spent 37 seconds at the door, so they are a careful, deliberate person. They left the scale ruler, set square and reference book at home, so they will have to work without precise tools. I'll give them the extra care time that fits that trait. The coffee and croissant show energy, but the missing tools outweigh it. I'm landing on 300 minutes, which is 5 hours.
+- **Decided:** 5 h
+- **Announced:** “37 seconds at my door, and no scale ruler or set square? You'll draw by eye, carefully. Take 300 minutes, and enjoy that croissant.”
+- *Claude (haiku), 5.9 s*
